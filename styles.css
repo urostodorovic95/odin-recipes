@@ -1,0 +1,21 @@
+body {
+    background-color: #FECDA6;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body > div {
+    background-color: #A9A9A9;
+}
+
+.recipe-section {
+    background-color: #FF9130;
+    font-size: large;
+}
+
+a {
+    color: white
+}
+
+.list {
+    text-align: center;
+}
